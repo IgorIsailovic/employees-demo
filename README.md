@@ -1,4 +1,4 @@
-# Homework - Igor Isailovic
+# Employees demo
 
 Simple RESTful app for managing employees
 
